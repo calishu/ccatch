@@ -1,0 +1,7 @@
+build/
+logs/
+cache/
+.cache/
+.idea/
+.vscode/
+*.log
